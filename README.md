@@ -1,4 +1,4 @@
-e<p align="center">
+<p align="center">
   <h1 align="center">�️ STARCoach</h1>
   <p align="center"><strong>AI-Powered STAR Interview Practice Bot for Discord</strong></p>
   <p align="center">
