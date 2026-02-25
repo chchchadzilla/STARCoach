@@ -2,8 +2,6 @@
 
 AI-powered STAR interview practice bot for Discord. Join a voice channel, practice behavioral interview questions, and get personalized coaching feedback on your STAR method answers.
 
-**Forked from [StaffLens](https://github.com/chchchadzilla/StaffLens)** — same voice infrastructure, reimagined for interview coaching.
-
 ## What It Does
 
 1. **You join a voice channel** with the practice role assigned
