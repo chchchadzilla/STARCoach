@@ -25,8 +25,6 @@ This file defines all project rules, coding standards, workflow guidelines, refe
 
 ## WORKFLOW & RELEASE RULES
 
-[To be defined]
-
 ## REFERENCE EXAMPLES
 
 [To be defined]

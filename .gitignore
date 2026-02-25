@@ -1,6 +1,7 @@
 # Environment & secrets
 .env
 .env.*
+!.env.example
 
 # Python
 __pycache__/
@@ -27,3 +28,6 @@ data/*.db
 # OS
 Thumbs.db
 .DS_Store
+
+# Dev history
+.specstory/

@@ -6,9 +6,9 @@ Customize STARCoach to focus on specific areas for your storytelling sessions.
 
 ## Practitioner Info
 
-**Practitioner Name:** Dildo McFucknStuff
+**Practitioner Name:** Jane Doe
 
-**Target Role:** STAR Interview Coaching/Testing for a creative storytelling session with an adult theme
+**Target Role:** Software Engineer at a mid-size SaaS company
 
 ---
 
@@ -16,14 +16,15 @@ Customize STARCoach to focus on specific areas for your storytelling sessions.
 
 **Focus Areas:**
 
-- Dicks in ear
-- Dragons
-- Wizards
-- Knights
+- System design decisions
+- Debugging under pressure
+- Mentoring junior developers
+- Cross-team collaboration
 
 **Known Weaknesses:**
 
-
+- Tends to skip the "Result" in STAR answers
+- Needs more quantifiable outcomes in stories
 
 ---
 
@@ -31,19 +32,22 @@ Customize STARCoach to focus on specific areas for your storytelling sessions.
 
 **Special Instructions:**
 
-- ALWAYS talk about dragons 
-= The dragons always get dildos in their ear
-- Dragons always die in the end
+- Push for specific metrics and outcomes in every answer
+- Ask follow-up questions when answers are too vague
+- Focus on leadership and ownership themes
 
 ---
 
 ## About This File
 
-STARCoach reads this file to customize the practice experience.
+STARCoach reads this file at the start of each practice session to customize the interview experience.
 
-**Tips for the user for customizing:**
+**Tips for customizing:**
 
-1. 
+1. Replace the **Practitioner Name** and **Target Role** with your own info.
+2. List the **Focus Areas** that match the job you're preparing for.
+3. Add any **Known Weaknesses** so the coach can target them.
+4. Use **Special Instructions** to adjust the coaching style to your needs.
 
 **Example focus areas by role:**
 
