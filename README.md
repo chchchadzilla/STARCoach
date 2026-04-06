@@ -408,3 +408,31 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 **Built by [Chad Keith](https://github.com/chchchadzilla)**
+
+## Usage
+
+Describe the most common 1-3 workflows here with concrete commands/examples.
+
+### Example
+
+```bash
+# Example command
+```
+
+## Demo
+
+Add one of the following for conversion:
+- GIF
+- screenshot
+- short video link
+
+Even a rough GIF is better than none.
+
+---
+
+## Support
+
+If this project helps you, consider:
+- ⭐ starring the repo
+- sharing it with someone who needs it
+- supporting ongoing work: **https://buymeacoffee.com/chadpkeith**
