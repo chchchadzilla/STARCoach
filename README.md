@@ -408,3 +408,41 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ---
 
 **Built by [Chad Keith](https://github.com/chchchadzilla)**
+
+## Usage
+
+### 1 — Run a practice session
+
+1. Make sure you have the **Practice** role in your Discord server.
+2. Join any voice channel — STARCoach greets you and asks a behavioral question out loud.
+3. Speak your answer naturally; the bot follows up with probing STAR-method questions.
+4. Leave the voice channel when finished. A coaching report is posted to your report channel within seconds.
+
+To end a session early without leaving the voice channel:
+
+```
+!endpractice
+```
+
+### 2 — Review your session history
+
+```
+!history          # list your recent sessions
+!session <id>     # view the full coaching report for a session
+!transcript <id>  # read the raw transcript for a session
+```
+
+### 3 — Re-run the AI analysis on a past session
+
+Useful after changing the AI model in your `.env`:
+
+```
+!reanalyze <id>
+```
+
+## Support
+
+If this project helps you, consider:
+- ⭐ starring the repo
+- sharing it with someone who needs it
+- supporting ongoing work: **https://buymeacoffee.com/chadpkeith**
