@@ -440,17 +440,6 @@ Useful after changing the AI model in your `.env`:
 !reanalyze <id>
 ```
 
-## Demo
-
-Add one of the following for conversion:
-- GIF
-- screenshot
-- short video link
-
-Even a rough GIF is better than none.
-
----
-
 ## Support
 
 If this project helps you, consider:
