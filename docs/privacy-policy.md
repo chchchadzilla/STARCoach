@@ -45,4 +45,4 @@ We reserve the right to modifyóna this policy at any time, without prior notice
 For questions or concerns, contact the repository owner:
 
 *GitHub Username: chchchadzilla*
-*Email (optional): chad@sharksale.pro*
+*Email (optional): STARCoachAI@protonmail.com*
