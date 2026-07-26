@@ -43,6 +43,4 @@ We reserve the right to modifyóna this policy at any time, without prior notice
 #### 8. Contact Us
 
 For questions or concerns, contact the repository owner:
-
-*GitHub Username: chchchadzilla*
-*Email (optional): STARCoachAI@protonmail.com*
+*Email: STARCoachAI@protonmail.com*
